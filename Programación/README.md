@@ -23,6 +23,30 @@ Ejercicios. Tema 2. Programación orientada a objetos
    └── Herencia - ej 32
    └── Métodos estáticos - ej 36
    └── Constantes - ej 48
+
+Ejercicios. Tema 3. Programación estructurada
+   └── Estructura secuencial
+   └── Estructura condicional
+   └── Estructura iterativa
+   └── Bucle while
+   └── Bucle for
+   └── Estructura iterativa anidada
+   └── Análisis de la eficiencia de un programa
+
+Ejercicios. Tema 4. Estructura de datos
+   └── Estructuras de datos
+   └── Java Collection Framework
+   └── Interfaz Collection <T>
+   └── Interfaz List <T>
+   └── Recorrido de una lista
+   └── For mejorado
+   └── Listas mutables e inmutables
+   └── Las clases envoltorio
+   └── Arrays
+   └── Tablas
+   └── Interfaz Set <T>
+   └── Interfaz Map <K,V>
+
 (En el Tema 2 uso librerías propias del instituto que son privadas)
-(A medida que se va dando algo nuevo en  el tema se va sumando a los siguientes ejercicios. Por eso en ciertos ejercicios no aparece lo que no se ha visto con anterioridad)
+(A medida que se va dando algo nuevo en  el tema se va sumando a los siguientes ejercicios. Por eso en los ejercicios no aparece lo que no se ha visto con anterioridad)
 ```
