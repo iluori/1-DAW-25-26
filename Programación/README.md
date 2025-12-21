@@ -16,7 +16,6 @@ Ejercicios. Tema 1. Fundamentos de la programación
    └── Bloque if-else - ej 39, ej 43
 
 Ejercicios. Tema 2. Programación orientada a objetos
-   └── La programación orientada a objetos - ej 1
    └── Clases, objetos y librerías
    └── Métodos constructores - ej 2
    └── Documentación de clases - ej 7, ej 17
@@ -24,5 +23,6 @@ Ejercicios. Tema 2. Programación orientada a objetos
    └── Herencia - ej 32
    └── Métodos estáticos - ej 36
    └── Constantes - ej 48
+(En el Tema 2 uso librerías propias del instituto que son privadas)
 (A medida que se va dando algo nuevo en  el tema se va sumando a los siguientes ejercicios. Por eso en ciertos ejercicios no aparece lo que no se ha visto con anterioridad)
 ```
