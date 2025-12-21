@@ -1,4 +1,4 @@
-# Programación - 1º DAW - 25/26
+# Programación - 1º DAW
 
 Ejercicios realizados en la asignatura de Programación de Desarrollo de Aplicaciones Web (1º DAW)
 
