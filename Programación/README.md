@@ -26,9 +26,9 @@ Ejercicios. Tema 2. Programación orientada a objetos
 
 Ejercicios. Tema 3. Programación estructurada
    └── Estructura secuencial
-   └── Estructura condicional
+   └── Estructura condicional - ej 2
    └── Estructura iterativa
-   └── Bucle while
+   └── Bucle while - ej 6, ej 12, ej 14
    └── Bucle for
    └── Estructura iterativa anidada
    └── Análisis de la eficiencia de un programa
