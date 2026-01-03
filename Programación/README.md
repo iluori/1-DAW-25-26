@@ -29,7 +29,7 @@ Ejercicios. Tema 3. Programación estructurada
    └── Estructura condicional - ej 2
    └── Estructura iterativa
    └── Bucle while - ej 6, ej 12, ej 14
-   └── Bucle for
+   └── Bucle for - ej 20, ej 22
    └── Estructura iterativa anidada
    └── Análisis de la eficiencia de un programa
 
