@@ -47,6 +47,6 @@ Ejercicios. Tema 4. Estructura de datos
    └── Interfaz Set <T>
    └── Interfaz Map <K,V>
 
-(En el Tema 2 uso librerías propias del instituto que son privadas)
+(En algunos temas uso librerías propias del instituto que son privadas)
 (A medida que se va dando algo nuevo en  el tema se va sumando a los siguientes ejercicios. Por eso en los ejercicios no aparece lo que no se ha visto con anterioridad)
 ```
