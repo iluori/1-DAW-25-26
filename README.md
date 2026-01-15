@@ -1,17 +1,25 @@
 # 1º DAW - Curso 25/26
 
-Repositorio con todos los ejercicios y proyectos del primer año de Desarrollo de Aplicaciones Web.
+Repositorio con todos los ejercicios, proyectos y contenidos dados del primer año de Desarrollo de Aplicaciones Web.
 
 ## Asignaturas
 
 ### [Programación]
-Fundamentos de Java, POO, estructuras de datos
+- Fundamentos de Java
+- POO
+- Estructuras de datos
 
 ### [Lenguaje de Marcas]
-HTML, CSS, XML, JSON
+- HTML
+- CSS
+- XML
+- JSON
 
 ### [Base de Datos]
-SQL, diseño de bases de datos relacionales
+- SQL
+- Diseño de bases de datos relacionales
 
 ### [Diseño de interfaces Web] (asignatura de 2º año)
-Figma, Accesibilidad y usabilidad, Maquetación Flex y Grid
+- Figma
+- Accesibilidad y usabilidad
+- Maquetación Flex y Grid
