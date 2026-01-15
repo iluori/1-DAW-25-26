@@ -11,4 +11,25 @@ Unidad 1. Introducción a los Lenguajes de marcas
    └── JSON
    └── Diferencias XML - JSON
 
+Unidad 2. Introducción a HTML
+   └── HTML
+   └── Estructura de una página web
+   └── Etiquetas básicas
+   └── Encabezados
+   └── Atributos
+   └── CSS
+   └── Color
+   └── Fuente
+   └── Párrafos
+   └── Contenedores
+   └── Imagenes
+   └── Figuras
+   └── Enlaces
+   └── Anclas
+   └── Listas
+   └── Tablas
+   └── Formularios
+   └── Audio y vídeo
+   └── Otras etiquetas
+   └── Bloques
 ```
