@@ -32,6 +32,7 @@ Prácticas sobre:
 - Maquetación Flex y Grid
 - Prototipos
 
+## Sobre el repositorio
 [El objetivo del repositorio es servir de historial de aprendizaje y evolutivo, y poder usarlo como **portfolio académico**]
 [El repositorio está en **constante actualización** hasta finalizar el curso]
 
