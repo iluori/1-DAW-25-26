@@ -11,7 +11,6 @@ Tema 1. Almacenamiento de la información
    └── SGBD comerciales y libres
    └── BD centralizadas
    └── BD distribuidas
--Actividades Tema 1 BDD.pdf-
 
 Tema 2. Interpretación de diagramas Entidad/Relación
    └── Modelo de datos
@@ -27,3 +26,7 @@ Tema 3. Creación de Bases de Datos relacionales
    └── SGBD MariaDB
    └── Lenguaje de descripción de datos (DDL)
    └── Lenguaje de control de datos (DCL)
+´´´
+
+## Ejercicios subidos a Github
+-Actividades Tema 1 BDD.pdf-
