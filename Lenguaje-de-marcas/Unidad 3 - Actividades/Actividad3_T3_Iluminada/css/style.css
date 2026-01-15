@@ -1,0 +1,70 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;  
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 15px;
+}
+
+tr:first-of-type{
+    font-weight: bold;
+}
+
+tr:first-of-type th::first-letter {
+    font-size: 2em;
+}
+
+td{
+    text-transform: uppercase;
+}
+
+tr:last-of-type > td:last-child{
+    background-color: rgb(28, 197, 28);
+}
+
+tr:nth-of-type(2) td:nth-child(2) {
+    background-color: red;
+}
+
+tr:not(#recreo) > td:last-child:hover{
+    font-size: 2em;
+}
+
+.tabla td:first-child:not(th:first-of-type){
+    background-color: #eb8b4c;
+    color: white;
+}
+
+#recreo :nth-child(2){
+    background-color: #4cd1eb;
+    color: white;
+    text-transform: none;
+}
+
+input{
+    background-color: rgb(192, 255, 237);
+}
+
+input:focus{
+    background-color: yellow;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(254, 39, 39);
+}
+
+a:link {
+    color: rgb(19, 228, 19);
+}
