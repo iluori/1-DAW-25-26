@@ -42,5 +42,12 @@ Tema 4. Realización de consultas
 ## Ejercicios subidos a Github
 ```
    └── Actividades Tema 1 BDD.pdf
+
+Actividades Tema 2 BBDD
+   └── Ejercicio 4 Apuntes.graphml
+   └── Ejercicio 7 Apuntes.graphml
+   └── Ejercicio 10 Apuntes.graphml
+   └── Ejercicio 15 Apuntes.graphml
+   └── Ejercicio 18 Apuntes.graphml
 ```
 
