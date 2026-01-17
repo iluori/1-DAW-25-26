@@ -26,6 +26,17 @@ Tema 3. Creación de Bases de Datos relacionales
    └── SGBD MariaDB
    └── Lenguaje de descripción de datos (DDL)
    └── Lenguaje de control de datos (DCL)
+
+Tema 4. Realización de consultas
+   └── Sentencia SELECT
+   └── Operadores
+   └── Consultas calculadas
+   └── Funciones
+   └── Consultas resumen
+   └── Consultas multitabla
+   └── Otras consultas multitabla: UNION, INTERSECT y EXCEPT
+   └── Subconsultas
+   └── Rendimiento de consultas
 ```
 
 ## Ejercicios subidos a Github
